@@ -1,0 +1,19 @@
+.navbar .form-inline button{
+    margin-right: 0;
+}
+.navbar .form-inline input{
+    margin-right: 0;
+}
+
+.navbar .collapse{
+    margin: 0;
+}
+
+.ponter{
+    cursor: pointer;
+}
+
+.dropdown-item.listItem:hover{
+    background-color: #343a40;
+    color: white;
+}

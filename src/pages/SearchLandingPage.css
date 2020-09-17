@@ -1,0 +1,37 @@
+@media only screen and (max-width: 700px) {
+    /* For mobile phones: */
+    .row{
+        width:100%;
+        margin: 0px;
+    }
+}
+.sort{
+    width: 200px;
+    
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#my-row{
+    padding-left:65px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.productListBody{
+    background-color: #eeeeee;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.filter{
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.option:hover{
+    background-color: aqua;
+}
